@@ -1,0 +1,5 @@
+{
+  "banned_patterns": ["mega.nz", "selling", "cp", "dm for", "mega"],
+  "protected_role_ids": [],
+  "trap_channel_id": 0
+}
